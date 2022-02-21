@@ -1,4 +1,3 @@
-py -m pip <pip arguments>
 py -m pip install streamlit
 py -m pip install plotly
 pip install plotly_express==0.4.0 
