@@ -1,4 +1,4 @@
-!pip install streamlit
+pip install streamlit
 !pip install plotly
 !pip install plotly_express==0.4.0 
 import streamlit as st
