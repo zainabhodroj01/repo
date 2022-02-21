@@ -1,3 +1,7 @@
+py -m pip <pip arguments>
+py -m pip install streamlit
+py -m pip install plotly
+pip install plotly_express==0.4.0 
 import streamlit as st
 import pandas as pd
 deaths = pd.read_csv("Death Cause Reason by Country.csv")
