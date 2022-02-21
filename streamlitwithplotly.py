@@ -3,7 +3,6 @@ import pandas as pd
 deaths = pd.read_csv("Death Cause Reason by Country.csv")
 import pandas as pd 
 import numpy as np 
-import seaborn as sns 
 import plotly.express as px 
 import plotly as plt
 
