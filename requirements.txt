@@ -1,5 +1,5 @@
-pip 
-pip installl streamlit==1.5.1
+
+streamlit==1.5.1
 pip install plotly==5.6.0
 pip install plotly-express==0.4.1
 pip install pandas==0.25.3
